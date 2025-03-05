@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sahandhdz
 - 👀 I’m interested in control theory, graph theory, and machine learning.
-- 🌱 I’m currently learning reinforcement learning.
-- 💞️ I’m looking to collaborate on projects related to control theory.
 - 📫 How to reach me: sahand.hdz@gmail.com
 
 <!---
