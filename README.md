@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sahandhdz
-- 👀 I’m interested in control theory, graph theory, and machine learning.
 - 📫 How to reach me: sahand.hdz@gmail.com
 
 <!---
